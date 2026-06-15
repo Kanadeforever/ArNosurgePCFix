@@ -40,7 +40,7 @@ LogEnabled=0        ; Log file (1=ON 0=OFF)
 
 Displays correct Japanese text on ANY system locale (Chinese, English, Korean, Russian, etc.). No configuration needed.
 
-## Technical Reports
+## Technical Reports (Chinese)
 
 - [Phase 1 Encoding Fix](src/Phase_1_REPORT_v2.md)
 - [Phase 2 CPU Fix](src/Phase_2_REPORT_Final.md)
