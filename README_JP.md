@@ -40,7 +40,7 @@ LogEnabled=0        ; ログ出力 (1=ON 0=OFF)
 
 あらゆる言語システム（中国語/英語/韓国語/ロシア語等）上で日本語を正しく表示。設定不要。
 
-## 技術レポート
+## 技術レポート（中国語）
 
 - [Phase 1 文字化け修正](src/Phase_1_REPORT_v2.md)
 - [Phase 2 CPU修正](src/Phase_2_REPORT_Final.md)
