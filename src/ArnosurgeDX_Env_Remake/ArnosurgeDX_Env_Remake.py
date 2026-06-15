@@ -469,6 +469,7 @@ class SettingsEditor(tk.Tk):
         style.configure("Group.TLabelframe", relief=tk.GROOVE, borderwidth=1)
         style.configure("Group.TLabelframe.Label", font=(default_font[0], 9, "bold"))
         style.configure("Status.TLabel", font=(default_font[0], 8), padding=(4, 1))
+        style.configure("TNotebook.Tab", padding=(28, 2, 28, 2), font=(default_font[0], 9))
         style.configure("KeyBtn.TButton", width=13)
         style.configure("ActionBtn.TButton", width=13, padding=(4, 2))
 
@@ -721,6 +722,13 @@ class SettingsEditor(tk.Tk):
                 # Map tkinter keysym to INI key name
                 keysym = event.keysym
                 ini_val = KEY_MAP_TK_TO_INI.get(keysym, "")
+
+                # Numpad detection via hardware keycode (Windows: 96-105 = Numpad 0-9)
+                # Some systems report numpad keysym as regular digits; keycode is reliable.
+                kc = getattr(event, "keycode", 0)
+                if 96 <= kc <= 105:
+                    ini_val = f"KPAD_{kc - 96}"
+
                 # Letters: tk keysym is lowercase, INI uses uppercase
                 if not ini_val and len(keysym) == 1 and keysym.isalpha():
                     ini_val = keysym.upper()
