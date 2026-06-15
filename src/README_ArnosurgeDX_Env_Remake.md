@@ -1,6 +1,6 @@
 # ArnosurgeDX Settings Editor
 
-《アルノサージュ ～生まれいずる星へ祈る詩～ DX》PC 版配置工具。原版 `Setting.exe` 无法在较新的 Windows 系统上运行，此工具提供完整的替代方案。
+《アルノサージュ ～生まれいずる星へ祈る詩～ DX》PC 版配置工具。原版 `Setting.exe` 无法正常在非日语的 Windows 系统上运行，此工具提供完整的替代方案。
 
 ## 功能
 
