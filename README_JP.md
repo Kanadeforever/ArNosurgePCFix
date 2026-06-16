@@ -12,7 +12,7 @@ PC版『アルノサージュDX』修正プラグイン集。
 |------|-----------|------|
 | 3DシーンでCPU使用率100% | CPUFix.asi / CPUFixLite.asi | ✅ |
 | 非日本語Windowsで文字化け | LocaleFix.asi | ✅ |
-| 非日本語Windowsで文字化け/白枠 | 新しいの作る | ✅ |
+| Env.exe 非日本語Windowsで文字化け/白枠 | 新しいの作る | ✅ |
 
 ## CPUFix.asi — CPU使用率100%修正
 
