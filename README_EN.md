@@ -12,7 +12,7 @@ PC fix pack for *Ar nosurge DX*.
 |-------|--------|--------|
 | CPU 100% in 3D scenes | CPUFix.asi / CPUFixLite.asi | ✅ |
 | Garbled Japanese text on non-JP Windows | LocaleFix.asi | ✅ |
-| Env.exe garbled/empty error | — | ❌ Abandoned |
+| Env.exe garbled/empty error | Remake | ✅ |
 
 ## CPUFix.asi — CPU 100% Fix
 
