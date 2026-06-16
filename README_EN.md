@@ -4,7 +4,7 @@
 
 ---
 
-PC fix pack for *Ar nosurge DX*.
+PC fix pack for [Ar Nosurge DX / アルノサージュ ～生まれいずる星へ祈る詩～ DX](https://store.steampowered.com/app/1477490).
 
 ## Fixed Issues
 
