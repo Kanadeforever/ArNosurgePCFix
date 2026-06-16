@@ -4,7 +4,7 @@
 
 ---
 
-PC 版《Ar nosurge DX》修复插件合集。
+PC 版《[Ar Nosurge DX / アルノサージュ ～生まれいずる星へ祈る詩～ DX](https://store.steampowered.com/app/1477490)》修复插件合集。
 
 ## 已修复
 
