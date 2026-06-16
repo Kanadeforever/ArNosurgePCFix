@@ -12,7 +12,7 @@ PC 版《Ar nosurge DX》修复插件合集。
 |------|------|------|
 | 3D 场景 CPU 100% | CPUFix.asi / CPUFixLite.asi | ✅ |
 | 非日文系统日文乱码 | LocaleFix.asi | ✅ |
-| Env.exe 乱码/白框报错 | — | ❌ 放弃 |
+| Env.exe 乱码/白框报错 | 从零重做一个 | ✅ |
 
 ## CPUFix.asi — CPU 100% 修复
 
