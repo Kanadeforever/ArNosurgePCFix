@@ -4,7 +4,7 @@
 
 ---
 
-PC版『アルノサージュDX』修正プラグイン集。
+PC版『[Ar Nosurge DX / アルノサージュ ～生まれいずる星へ祈る詩～ DX](https://store.steampowered.com/app/1477490)』修正プラグイン集。
 
 ## 修正済み
 
