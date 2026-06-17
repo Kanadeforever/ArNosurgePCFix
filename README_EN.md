@@ -27,11 +27,11 @@ PC fix pack for [Ar Nosurge DX / アルノサージュ ～生まれいずる星�
 
 ```ini
 [CPUFix]
-ThrottleMs=1        ; Throttle delay (1-16ms, default 1, do not change)
-EnableOnStart=1     ; Throttle on at startup (1=ON 0=OFF)
-Hotkey=F1           ; Keyboard hotkey
+ThrottleMs=1           ; Throttle delay (1-16ms, default 1, do not change)
+EnableOnStart=1        ; Throttle on at startup (1=ON 0=OFF)
+Hotkey=F1              ; Keyboard hotkey
 GamepadHotkey=BACK+R3  ; Gamepad combo (leave empty to disable)
-LogEnabled=0        ; Log file (1=ON 0=OFF)
+LogEnabled=0           ; Log file (1=ON 0=OFF)
 ```
 
 **Lite Edition (CPUFixLite.asi)** — no config, no hotkeys, always on. Only writes `CPUFix.log`.
