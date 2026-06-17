@@ -27,11 +27,11 @@ PC版『[Ar Nosurge DX / アルノサージュ ～生まれいずる星へ祈る
 
 ```ini
 [CPUFix]
-ThrottleMs=1        ; スロットル遅延 (1-16ms, デフォルト1, 変更禁止)
-EnableOnStart=1     ; 起動時スロットル (1=ON 0=OFF)
-Hotkey=F1           ; キーボードホットキー
+ThrottleMs=1           ; スロットル遅延 (1-16ms, デフォルト1, 変更禁止)
+EnableOnStart=1        ; 起動時スロットル (1=ON 0=OFF)
+Hotkey=F1              ; キーボードホットキー
 GamepadHotkey=BACK+R3  ; ゲームパッドコンボ (空欄で無効)
-LogEnabled=0        ; ログ出力 (1=ON 0=OFF)
+LogEnabled=0           ; ログ出力 (1=ON 0=OFF)
 ```
 
 **Lite版 (CPUFixLite.asi)** — 設定不要、ホットキーなし、常時有効。`CPUFix.log` のみ出力。
