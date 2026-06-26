@@ -45,7 +45,8 @@ LogEnabled=0           ; ログ出力 (1=ON 0=OFF)
 - [Phase 1 文字化け修正](src/Phase_1_REPORT_v2.md)
 - [Phase 2 CPU修正](src/Phase_2_REPORT_Final.md)
 
-## クレジット
+## 謝辞
 
-- [MinHook](https://github.com/TsudaKageyu/minhook) — BSD
-- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) — MIT
+- [MinHook](https://github.com/TsudaKageyu/minhook)
+- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
+- DeepSeek — 翼を借りるもの
