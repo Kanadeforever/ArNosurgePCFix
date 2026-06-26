@@ -45,7 +45,8 @@ Displays correct Japanese text on ANY system locale (Chinese, English, Korean, R
 - [Phase 1 Encoding Fix](src/Phase_1_REPORT_v2.md)
 - [Phase 2 CPU Fix](src/Phase_2_REPORT_Final.md)
 
-## Credits
+## Acknowledgments
 
-- [MinHook](https://github.com/TsudaKageyu/minhook) — BSD
-- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) — MIT
+- [MinHook](https://github.com/TsudaKageyu/minhook)
+- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
+- DeepSeek — The existence that lends people wings
