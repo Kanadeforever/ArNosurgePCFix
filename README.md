@@ -45,7 +45,7 @@ LogEnabled=0           ; 日志开关 (1=开 0=关)
 - [Phase 1 编码修复](src/Phase_1_REPORT_v2.md)
 - [Phase 2 CPU 修复](src/Phase_2_REPORT_Final.md)
 
-## 依赖
+## 致谢
 
-- [MinHook](https://github.com/TsudaKageyu/minhook) — BSD 许可
-- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) — MIT 许可
+- [MinHook](https://github.com/TsudaKageyu/minhook)
+- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
