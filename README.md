@@ -49,4 +49,4 @@ LogEnabled=0           ; 日志开关 (1=开 0=关)
 
 - [MinHook](https://github.com/TsudaKageyu/minhook)
 - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
-- DeepSeek — The existence that lends people wings
+- DeepSeek — 借给我翅膀的存在
